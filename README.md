@@ -2,31 +2,13 @@
 <h3 align="center">Backend Developer · Node.js · MongoDB · REST APIs</h3>
 
 <br/>
-```yaml
-name      : Ghushit Kumar Chutia
-role      : Backend Developer
-education : B.Tech CSE — Lovely Professional University (2027)
-focus     : Scalable APIs · System Design · AI-Integrated Backends
-status    : Open to internships and backend roles
-```
+
+<p align="center">
+B.Tech CSE student at Lovely Professional University (2027) · Building scalable APIs and backend systems · Open to internships
+</p>
 
 <br/>
 
----
-
-### What I build
-
-Backend systems that are fast, secure, and production-aware.  
-I care about clean architecture, predictable performance, and APIs that do not break at 2AM.
-
----
-
-### Currently learning
-
-Docker · TypeScript · Redis · System design at scale
-
----
-
-### Reach me
-
-[LinkedIn](https://www.linkedin.com/in/ghushitkumarchutia) · ghushitchutia@gmail.com
+<p align="center">
+<a href="https://www.linkedin.com/in/ghushitkumarchutia">LinkedIn</a> · ghushitchutia@gmail.com
+</p>
