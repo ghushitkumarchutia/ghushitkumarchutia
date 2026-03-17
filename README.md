@@ -1,14 +1,15 @@
 <h1 align="center">Ghushit Kumar Chutia</h1>
+
 <h3 align="center">Backend Developer · Node.js · MongoDB · REST APIs</h3>
 
 <br/>
 
 <p align="center">
-B.Tech CSE student at Lovely Professional University (2027) · Building scalable APIs and backend systems · Open to internships
+  B.Tech CSE · Lovely Professional University · Open to backend internships
 </p>
 
 <br/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ghushitkumarchutia">LinkedIn</a> · ghushitchutia@gmail.com
+  <img src="https://komarev.com/ghpvc/?username=ghushitkumarchutia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
