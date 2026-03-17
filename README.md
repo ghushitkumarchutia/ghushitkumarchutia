@@ -1,4 +1,4 @@
-<h1 align="center">Ghushit Kumar Chutia</h1>
+<h1 align="center">Hi 👋 I'm Ghushit Kumar Chutia</h1>
 
 <h3 align="center">Backend Developer · Node.js · MongoDB · REST APIs</h3>
 
