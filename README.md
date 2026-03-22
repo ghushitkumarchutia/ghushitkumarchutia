@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ghushit Kumar Chutia</h1>
 
-<h3 align="center">Backend Developer · Node.js · MongoDB · REST APIs</h3>
-
-<br/>
-
-<p align="center">
-  B.Tech CSE · Lovely Professional University · Open to backend internships
-</p>
+<h3 align="center">Backend Developer</h3>
 
 <br/>
 
