@@ -10,20 +10,6 @@
 
 <br>
 
-<h2>About</h2>
-
-<p>
-  Computer Science student focused on full-stack development, backend engineering,
-  system design, and modern AI application development.
-</p>
-
-<p>
-  Currently exploring <strong>Generative AI, RAG, LLM applications, embeddings,
-  and AI-native systems</strong>.
-</p>
-
-<br>
-
 <h2>Tech Stack</h2>
 
 <p align="center">
